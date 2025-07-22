@@ -6,7 +6,7 @@ A Python-based EDA project that explores multiple datasets related to company pe
 
 ## 📁 Project Structure
 
-- `data/`: Contains all CSV datasets used for the analysis.
+- `dataset/`: Contains all CSV datasets used for the analysis.
 - `notebooks/`: Jupyter Notebook with full EDA code (`marketdata.ipynb`).
 - `presentation/`: Final project presentation in PowerPoint format.
 - `README.md`: This file with complete project overview.
@@ -58,13 +58,13 @@ A Python-based EDA project that explores multiple datasets related to company pe
 
 ## 📽 Presentation
 
-A complete PPT (`EDA_project.pptx`) is included in the `presentation/` folder to share findings with stakeholders and investors.
+A complete PPT (`presentation_project.pptx`) is included in the `presentation/` folder to share findings with stakeholders and investors.
 
 ---
 
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/yourusername/Market-Data-EDA-Project.git
+git clone[(https://github.com/sumitmehta2305/-Market-Data-EDA-Project.git)]
 cd Market-Data-EDA-Project
 pip install -r requirements.txt
