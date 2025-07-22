@@ -1,0 +1,501 @@
+company_id,company_name,industry,country,founded_year,market_cap
+4699,Castaneda-Sanchez,Healthcare,Ukraine,1956,312.54
+7917,Mack and Sons,Retail,Denmark,1903,277.19
+2991,"Mendez, Carlson and Johnson",Technology,Malta,1942,190.07
+5592,Jones-Walker,Retail,Afghanistan,1921,208.63
+6452,Williamson-Williams,Technology,Comoros,1959,160.38
+5004,Perez Ltd,Retail,Thailand,1956,229.18
+1194,"Long, Sullivan and Fuller",Healthcare,New Zealand,1928,132.72
+5459,Buck-Lee,Retail,Bangladesh,1983,277.99
+8817,Andrade LLC,Finance,Somalia,1969,201.18
+9023,Castillo-Hill,Telecom,Gibraltar,1923,300.06
+3714,"Miller, Clark and Velazquez",Healthcare,Brunei Darussalam,2009,476.3
+2984,Garcia-Kelly,Finance,Czech Republic,2002,183.38
+1882,Gardner Ltd,Finance,Korea,1939,418.08
+2693,"Lane, Jones and Johnson",Telecom,Argentina,1916,493.47
+6563,Christensen-Reynolds,Healthcare,Congo,1948,200.93
+8976,King LLC,Healthcare,Swaziland,2003,65.0
+3108,"Stout, Vance and Chan",Healthcare,Marshall Islands,1937,480.39
+9951,Morales-Munoz,Finance,Tajikistan,1930,20.05
+4999,"Lucas, Knight and Williams",Finance,Belarus,1996,217.03
+3721,Maynard PLC,Energy,Falkland Islands (Malvinas),1952,435.81
+3832,Harris and Sons,Healthcare,Mexico,1992,196.34
+7670,Hanson Ltd,Retail,Finland,1953,265.07
+7530,Hansen-Bradley,Telecom,El Salvador,1996,347.72
+4461,Snyder-Herrera,Energy,Bulgaria,1912,17.8
+7263,Franklin LLC,Technology,Antigua and Barbuda,1967,212.44
+4726,Johns-Smith,Retail,Trinidad and Tobago,1928,342.5
+1732,Johnson and Sons,Finance,Libyan Arab Jamahiriya,1923,203.93
+3453,"Ramsey, Molina and Johnson",Retail,Yemen,2001,443.39
+2857,Rogers and Sons,Healthcare,Kuwait,1965,353.33
+3559,"Smith, Padilla and Hardy",Technology,Venezuela,1957,200.83
+4900,Nguyen Ltd,Telecom,Zimbabwe,1906,357.12
+5685,Hunter Ltd,Finance,Malta,1935,157.96
+5597,Parker-Larson,Telecom,Guernsey,1973,82.45
+6759,"Gibson, Conner and Wilson",Telecom,Madagascar,1912,299.8
+9235,Willis-Baker,Technology,Dominica,2014,121.0
+6347,"Hughes, Ingram and Morrison",Technology,Seychelles,1954,460.98
+9818,"Watkins, Martinez and Perry",Telecom,Turkey,1980,43.85
+7095,Herrera-Austin,Technology,Wallis and Futuna,1993,44.13
+8425,Walker Group,Technology,Saudi Arabia,1974,142.97
+9901,"Waller, Bowman and Ewing",Technology,Bahrain,1956,30.74
+8691,"Jones, Randall and Smith",Technology,Monaco,1918,398.81
+9478,"Brown, Morris and Wright",Technology,Croatia,1993,192.3
+1449,Johnson Group,Telecom,Honduras,1998,62.83
+1308,Mccarthy-Patrick,Technology,Solomon Islands,1942,391.22
+4574,Graham-Sloan,Healthcare,Latvia,2009,213.93
+6016,Vincent-Holmes,Retail,Namibia,1994,394.29
+9719,"Beck, Orr and Brown",Telecom,Austria,1939,84.27
+1808,"Hebert, Henderson and Gray",Technology,Ecuador,1924,155.9
+8800,"Foster, Marsh and Cruz",Healthcare,Cambodia,1988,54.81
+7120,Townsend-Grant,Finance,Ethiopia,2017,43.75
+5916,Clark-Brown,Retail,Tunisia,1948,157.89
+1517,Avery-Hernandez,Retail,Mongolia,1960,269.01
+5814,Parker PLC,Finance,Tajikistan,1938,51.61
+7072,Reyes-Livingston,Healthcare,Libyan Arab Jamahiriya,2013,159.48
+3791,"Mitchell, Cooper and Scott",Finance,Kyrgyz Republic,1962,229.3
+3972,"Barron, Thomas and Flores",Healthcare,Georgia,1975,324.05
+5988,Carson-Silva,Energy,Oman,1991,377.83
+4309,Mueller LLC,Healthcare,Malawi,2020,374.44
+4606,"Hughes, Ochoa and Case",Healthcare,Denmark,1904,476.07
+1016,"Davis, Smith and Humphrey",Retail,Iceland,2002,366.92
+2611,Romero-Boyd,Energy,Sri Lanka,2002,392.6
+7662,Taylor PLC,Healthcare,Armenia,2006,267.86
+2210,"Burke, Fisher and Frank",Retail,Venezuela,1939,483.09
+2398,Harvey-Williams,Healthcare,Niue,2005,359.24
+1767,"Harper, Hall and Johnson",Healthcare,Guyana,1995,216.32
+6663,"Shelton, York and Martinez",Retail,Heard Island and McDonald Islands,1980,290.39
+5171,Sanders-Smith,Finance,Liechtenstein,1982,240.91
+3887,Washington PLC,Technology,Azerbaijan,1914,128.09
+4177,"Holder, Garcia and Martinez",Retail,Heard Island and McDonald Islands,1924,266.27
+9470,"Jones, Lee and Maldonado",Technology,Palau,1932,53.17
+8138,Patterson PLC,Retail,Central African Republic,1970,180.57
+9644,Shields and Sons,Retail,Micronesia,1948,449.43
+8218,Scott-Martinez,Finance,Mexico,2008,161.74
+1227,Griffith-Rogers,Energy,Bahrain,1968,98.99
+5770,Jacobs-Gibson,Healthcare,Togo,1910,52.29
+4208,Martin and Sons,Energy,Sao Tome and Principe,2003,371.62
+6690,"Sanders, Paul and Buckley",Technology,Croatia,2002,460.35
+1785,Mcdonald-Roach,Healthcare,Jamaica,2012,159.26
+9435,Jackson-Wheeler,Energy,Cambodia,1927,272.94
+7225,Dean PLC,Finance,Mali,1957,485.02
+2937,"Valdez, Clark and Parrish",Healthcare,United Arab Emirates,1912,182.33
+2192,Russell LLC,Retail,Hungary,1974,243.68
+1954,"Paul, Jacobs and Nelson",Telecom,Tonga,1922,381.68
+1553,Bailey-Peterson,Technology,Timor-Leste,1926,233.14
+3144,Smith and Sons,Energy,Cambodia,1962,304.04
+2863,Jackson PLC,Retail,Jamaica,2012,326.78
+1750,"Ross, Wright and Gomez",Retail,Chad,1974,183.03
+1833,Sanford PLC,Energy,Turkey,1912,364.98
+7501,"Williams, Duncan and Crawford",Healthcare,Slovakia (Slovak Republic),1962,293.66
+4689,"Miller, Mcdaniel and Mcdonald",Technology,Mauritania,2013,250.48
+3828,"Ellis, Gomez and Williams",Healthcare,Yemen,1953,192.56
+5798,"Cooke, Yu and Vasquez",Healthcare,Kuwait,2006,148.51
+8992,Hicks and Sons,Retail,Saint Kitts and Nevis,1976,475.46
+9004,"Brown, Simmons and Wagner",Energy,Monaco,1954,339.96
+4002,"Gonzalez, Barnes and Adams",Retail,Vietnam,1955,401.47
+2193,Rogers-Diaz,Healthcare,Argentina,1939,184.63
+3319,"Meza, Bridges and Hayes",Healthcare,Seychelles,1999,262.14
+9713,Massey Ltd,Energy,Montenegro,1904,19.86
+5071,Hansen PLC,Telecom,Greenland,1953,337.51
+8513,Bell-Rowland,Retail,Antigua and Barbuda,1967,206.13
+5941,"Hines, Ward and Navarro",Finance,Anguilla,2008,60.85
+1847,Williams PLC,Technology,Puerto Rico,1958,485.93
+6880,Martinez-Steele,Healthcare,Belgium,1946,174.7
+3308,Lee-Allen,Telecom,Korea,1971,389.16
+2176,"Duncan, Anderson and Romero",Healthcare,Burundi,1970,49.89
+5965,"Wood, Wolf and Salazar",Finance,Saint Pierre and Miquelon,2016,163.67
+4227,Brown-Reynolds,Healthcare,Northern Mariana Islands,1941,446.95
+6319,Adams PLC,Energy,Greenland,2006,497.64
+5019,"Schneider, Monroe and Lawrence",Retail,Uganda,1983,33.02
+2426,Perez and Sons,Technology,Reunion,1984,202.95
+4241,Garner-Levy,Healthcare,Bouvet Island (Bouvetoya),1992,488.3
+5889,Lee-Meyers,Retail,Cyprus,1953,253.22
+2982,"Morris, Barajas and Austin",Retail,Macao,1928,441.54
+6917,Newman-Lee,Retail,Malaysia,2008,443.01
+1008,Bautista LLC,Energy,Malta,2009,466.98
+3144,"Bailey, Padilla and Gordon",Retail,Chile,1974,438.34
+6965,Bradley-Beasley,Telecom,Sao Tome and Principe,2001,73.12
+4091,"Pace, Henson and Hall",Healthcare,Cyprus,2001,306.23
+2288,Snyder Group,Retail,Vanuatu,1979,217.24
+6150,Jones Group,Finance,Mongolia,1935,39.38
+2623,"Le, Lane and Hancock",Telecom,Niue,1963,79.95
+9817,Blackburn-Silva,Finance,Chile,1969,19.13
+3291,Murphy Ltd,Retail,Netherlands,1912,107.38
+9951,Delgado-Watkins,Finance,Kazakhstan,2005,107.34
+3030,Jones-Johnson,Energy,Tokelau,1938,205.34
+1644,Melton LLC,Finance,Switzerland,2005,259.44
+9116,"Thompson, Smith and Moran",Energy,Sierra Leone,1905,35.25
+1176,Palmer Ltd,Technology,Niger,1957,165.65
+7786,Sherman-Gray,Retail,Barbados,1953,273.39
+5004,Ramirez-Keller,Telecom,Nauru,1982,310.05
+9012,"Sanford, Dudley and Green",Finance,Hungary,1988,420.57
+7415,Collins-Martin,Energy,South Georgia and the South Sandwich Islands,1919,363.97
+3022,Roy-Allen,Retail,Mauritania,2020,180.01
+4367,Wall-Wells,Telecom,Ireland,1971,263.99
+2085,Fischer and Sons,Retail,Gabon,1998,103.37
+9042,Roberts-Fox,Healthcare,Greece,1981,38.68
+5097,Yang PLC,Technology,Grenada,1972,380.92
+5427,Cox Group,Finance,Serbia,1952,15.64
+9327,Clark-Garcia,Healthcare,Bahamas,1958,221.29
+9841,Parker Ltd,Telecom,San Marino,1906,421.24
+5068,"Logan, Reynolds and Stephens",Energy,Wallis and Futuna,1968,394.49
+7790,Smith-Burton,Energy,Somalia,1969,336.24
+2450,Powell-Jacobson,Technology,Poland,2011,100.51
+7680,Fowler LLC,Energy,Suriname,1919,255.91
+5749,Johnson-Vaughan,Energy,Sri Lanka,2015,138.84
+1250,"Bell, Brown and Lewis",Retail,Somalia,1903,177.08
+8462,Bentley-Rich,Energy,Russian Federation,1925,290.77
+9694,"Armstrong, Parsons and Rodriguez",Technology,Timor-Leste,1984,163.3
+2011,Whitaker-Foster,Technology,Svalbard & Jan Mayen Islands,2000,320.82
+5986,"Ramirez, Baxter and Young",Retail,Japan,1919,169.35
+3934,Lee-Cook,Technology,Dominican Republic,1967,264.22
+1376,Jones PLC,Healthcare,India,1915,21.9
+1165,"Lang, Crane and Green",Retail,Bermuda,1945,178.43
+1735,"Williams, Hicks and Harris",Energy,Greece,1962,165.1
+9941,Thompson-Lowe,Telecom,Brazil,1955,145.39
+2230,Benton PLC,Retail,El Salvador,1982,473.84
+8218,"Diaz, Mcdonald and Kelly",Energy,Lao People's Democratic Republic,1920,125.64
+5604,Ellis Ltd,Retail,United Kingdom,1903,204.77
+7028,Buchanan-Campbell,Healthcare,Sri Lanka,1941,251.09
+8989,Turner Inc,Telecom,Congo,1938,445.96
+2556,"Robinson, Holland and Poole",Technology,British Indian Ocean Territory (Chagos Archipelago),1964,375.81
+9207,"Chandler, Norris and Hall",Finance,Japan,1941,460.02
+5966,"Gonzalez, Moore and Walker",Energy,Honduras,1991,310.13
+7264,Watson Ltd,Telecom,Moldova,1989,390.47
+9055,"Banks, Davis and Hendrix",Finance,Malaysia,1966,82.68
+4261,Santiago LLC,Energy,Saint Pierre and Miquelon,1958,458.3
+7022,Leon Ltd,Healthcare,Japan,1976,5.74
+2929,Flores-Fletcher,Energy,Ukraine,1923,445.24
+7165,Jones Inc,Finance,Solomon Islands,1944,394.45
+6371,"Coleman, Bailey and Alexander",Technology,Brunei Darussalam,2001,153.12
+4478,Hendrix Ltd,Energy,Montenegro,1932,499.46
+6361,"Jones, Williams and Burns",Healthcare,Argentina,1961,127.83
+1504,"Willis, Russell and Hobbs",Retail,Iceland,1994,471.23
+1461,Sheppard-Diaz,Energy,Armenia,1949,11.34
+5385,"Hernandez, Williams and Rhodes",Healthcare,Ghana,1901,165.13
+8011,"Myers, Christian and Lopez",Healthcare,Kyrgyz Republic,1978,353.69
+2901,"Whitehead, Miller and Owen",Healthcare,Taiwan,1950,385.55
+5192,Phillips and Sons,Technology,Romania,1984,380.91
+7454,Herman-Moore,Energy,Sweden,1932,76.79
+1341,Nicholson Ltd,Healthcare,Ireland,2009,7.34
+6726,"Wood, Long and Barnes",Healthcare,Mexico,2018,262.83
+3572,"Williams, Bird and Jackson",Finance,Bhutan,1989,414.25
+4663,"Russell, Riley and Jones",Healthcare,Luxembourg,1980,437.08
+3891,Bryant PLC,Energy,Singapore,1933,308.97
+1947,Johnson PLC,Energy,South Africa,2011,106.98
+8576,"Castro, Black and Espinoza",Finance,Switzerland,1960,134.73
+4950,Smith-Williams,Telecom,Heard Island and McDonald Islands,1998,413.88
+9538,"Vazquez, Torres and Foster",Healthcare,United States of America,2009,426.77
+5007,Garrett Ltd,Energy,Liechtenstein,1952,223.8
+7011,"Knight, Powell and Mckinney",Telecom,Palau,1972,477.7
+5713,Nicholson and Sons,Energy,Switzerland,2006,221.77
+7239,Wall Ltd,Finance,Puerto Rico,1936,402.41
+7290,Smith-Golden,Technology,Belize,1987,287.77
+9910,Sandoval Inc,Retail,Tanzania,1998,423.24
+8026,Cole-Carlson,Healthcare,Brazil,1970,410.28
+6539,Gibson-Johnson,Energy,Heard Island and McDonald Islands,1934,121.9
+8968,Hart LLC,Finance,Fiji,2015,298.18
+7395,Lopez-Brown,Healthcare,Tunisia,1979,464.33
+9619,Scott-Flores,Retail,Liechtenstein,1939,246.34
+2215,"Richardson, Brown and Lucas",Finance,Somalia,1940,388.22
+4574,Tucker Group,Energy,Swaziland,2012,469.03
+9309,Butler Inc,Retail,Liechtenstein,1908,39.39
+8343,Garcia-Bennett,Telecom,Israel,1984,194.72
+6969,Pena-Parker,Energy,Martinique,1965,437.67
+8483,"Morris, Brady and Flores",Technology,Kuwait,1945,116.72
+8351,Reed-Casey,Healthcare,Libyan Arab Jamahiriya,2002,198.1
+9007,Price-Ferguson,Retail,British Virgin Islands,1906,457.78
+9399,Smith-Wong,Telecom,Malawi,1938,338.62
+5126,Graham-Whitehead,Technology,Angola,1921,95.43
+6691,"Valdez, Kaufman and Parker",Healthcare,Jamaica,2000,20.02
+9225,Richardson-Saunders,Energy,Malaysia,2005,100.82
+3116,Graham-Hall,Healthcare,Bolivia,1964,453.98
+3292,Wright-Gonzalez,Finance,Pakistan,1979,424.13
+7771,"Savage, Liu and Lara",Telecom,Swaziland,1988,176.96
+7635,Davis-Knight,Healthcare,Ireland,1960,346.25
+8226,Mason Group,Energy,Iraq,2015,361.27
+9060,Lewis-Bailey,Energy,Israel,1901,66.43
+1216,Garcia-Stein,Healthcare,United States of America,1998,50.18
+2745,Liu Group,Technology,Dominican Republic,1985,25.04
+8350,"Martinez, Thomas and Logan",Retail,British Virgin Islands,2013,494.4
+2194,Rhodes-Williams,Healthcare,Bulgaria,1943,468.35
+8469,Castro-Davis,Energy,Saint Helena,2017,384.74
+4703,Ramirez-Whitaker,Finance,Heard Island and McDonald Islands,1979,166.81
+8622,Carter-Thomas,Telecom,Guinea-Bissau,1999,437.89
+6324,Sanchez PLC,Retail,Indonesia,1958,175.14
+8647,Stephenson-Harvey,Healthcare,Canada,1961,352.02
+2711,Ramirez-Jones,Retail,Bouvet Island (Bouvetoya),1937,423.98
+5464,Gardner-Ramos,Retail,Montenegro,1993,241.34
+4465,Blair Group,Retail,Monaco,1917,419.7
+3194,"Brown, Petersen and Holland",Energy,India,1971,422.67
+5705,Cobb LLC,Energy,Netherlands,1983,154.66
+3851,Gallagher Ltd,Technology,Guernsey,1990,342.85
+8516,Terry-Wagner,Finance,Saint Kitts and Nevis,1948,394.68
+2774,"Roberts, Parks and Jordan",Healthcare,Cameroon,1966,427.66
+1948,Owens Ltd,Telecom,Zimbabwe,1981,380.71
+7898,Johnson-Marquez,Energy,Belgium,1981,448.23
+5079,Freeman PLC,Telecom,Cambodia,2001,393.59
+4798,"Brown, Coleman and Meyers",Telecom,Tokelau,2011,155.53
+7911,Fisher PLC,Telecom,Slovenia,1958,149.85
+3450,Johnson-Kennedy,Technology,Papua New Guinea,1964,495.52
+7901,"Mcguire, Wilson and Schmitt",Energy,Qatar,1941,102.07
+7174,"West, Campbell and Evans",Technology,Palestinian Territory,1990,73.36
+5336,Miller-Craig,Energy,Antarctica (the territory South of 60 deg S),1964,279.24
+7223,"Williams, Wilkins and Roberts",Energy,Saint Pierre and Miquelon,1966,445.55
+1807,Hughes LLC,Healthcare,Uzbekistan,1915,33.29
+5894,Hernandez Inc,Telecom,Colombia,1944,116.37
+2692,"Harvey, Thompson and Foster",Technology,Jersey,1940,471.58
+7209,"Hicks, Myers and Martinez",Finance,Dominican Republic,1985,28.47
+4100,Kennedy Group,Telecom,Reunion,2014,64.61
+7166,Hernandez-Jackson,Energy,Falkland Islands (Malvinas),1916,130.48
+4780,Cook Inc,Finance,Sri Lanka,1987,140.94
+3264,Knight PLC,Healthcare,Guernsey,1996,7.9
+3267,Dean-Harris,Finance,Canada,1994,303.02
+1396,"Dixon, Carter and Monroe",Retail,Cyprus,1951,460.26
+6318,"Crawford, Kerr and Carpenter",Retail,Luxembourg,1970,23.32
+4811,Wright-Olson,Retail,Armenia,1967,77.55
+4595,Henry-Floyd,Retail,Argentina,1970,245.27
+1104,Grimes-Carter,Healthcare,Nigeria,2007,121.02
+2213,Park-Griffin,Telecom,South Africa,1984,384.29
+5853,Morales Group,Technology,Bermuda,1961,54.56
+2672,Garcia-Mann,Retail,Antigua and Barbuda,1977,245.59
+9915,Church-Ramirez,Energy,Gabon,1973,347.9
+8358,Jones-Wheeler,Telecom,Saudi Arabia,1991,134.28
+9223,Wilson PLC,Finance,Congo,2000,107.3
+2217,Peterson-Kaiser,Finance,Colombia,1976,116.23
+6290,Gibson Ltd,Telecom,Russian Federation,1965,235.14
+4597,Brooks-Adams,Retail,Argentina,1928,347.56
+9743,Powers-Baker,Healthcare,Moldova,1937,30.15
+1435,"Blair, Johnson and Frank",Technology,Bhutan,1961,243.85
+9672,"Oconnor, Horn and Hoffman",Retail,Belize,1963,434.64
+2972,Lynch-Clark,Finance,Anguilla,1940,55.0
+3776,Baker and Sons,Retail,Russian Federation,1923,262.95
+3326,Perez and Sons,Retail,Benin,1910,153.78
+4272,"Copeland, Watson and Mayo",Healthcare,Djibouti,2007,124.43
+3411,Bailey-Malone,Technology,Anguilla,1978,388.65
+4245,Goodwin-Byrd,Retail,Croatia,1986,343.24
+4432,"Mullins, Wilson and Summers",Retail,Bermuda,1909,323.79
+2476,Hernandez Group,Technology,Faroe Islands,1904,32.39
+4539,Weaver Inc,Energy,Italy,2016,48.57
+6685,Barton-Rodriguez,Finance,Guernsey,1920,188.96
+2074,Anderson-Smith,Technology,Egypt,2020,151.27
+2640,Robinson-Saunders,Telecom,Rwanda,1920,15.12
+1082,"Rice, Galloway and Summers",Healthcare,Guinea-Bissau,1979,94.82
+1103,"Harris, Christensen and Thomas",Energy,Falkland Islands (Malvinas),1981,471.94
+9317,Lynn-Howell,Telecom,Saint Martin,1972,279.69
+8702,Scott PLC,Technology,Japan,1959,55.81
+3703,"Flynn, Valdez and Moss",Technology,Iraq,1987,92.5
+9865,"Bailey, Lynch and Schwartz",Energy,Hong Kong,1915,24.0
+1537,Pratt and Sons,Telecom,United Arab Emirates,1964,401.63
+1060,Palmer-Ward,Telecom,Heard Island and McDonald Islands,2007,50.33
+4939,"Smith, Smith and Cortez",Finance,Congo,1900,158.48
+9981,"Davis, Bell and Frye",Technology,Greenland,1918,136.1
+2139,"Taylor, Cooper and Reyes",Telecom,United States Virgin Islands,1986,19.76
+7303,Delgado Group,Energy,Tokelau,1975,119.86
+2355,Shaw-Morales,Technology,Finland,1942,424.55
+4676,Harper Inc,Telecom,Albania,1916,40.66
+1302,Brown Inc,Energy,Mozambique,1925,35.79
+4532,"Harrison, Walter and Gibson",Energy,Russian Federation,1938,469.14
+3368,Massey Ltd,Retail,Saint Pierre and Miquelon,1915,194.48
+3050,Green-Benson,Healthcare,Botswana,1940,335.74
+9474,"Davis, Hoover and Patel",Finance,Tajikistan,1978,426.29
+8218,"Martin, Smith and Phillips",Energy,Lesotho,1980,446.38
+5953,Levine-Hernandez,Energy,Estonia,1929,37.96
+5240,"Petersen, Leblanc and Thompson",Telecom,Mali,1906,55.07
+6735,Morgan PLC,Energy,Bermuda,1912,90.47
+7470,Hayes-Williams,Finance,Niue,2007,21.36
+9255,Callahan and Sons,Energy,Belgium,1957,179.7
+3712,Carroll-Copeland,Retail,Guam,1919,240.24
+6821,Roberts-Hamilton,Healthcare,Nepal,1930,406.0
+2579,"Smith, Molina and Schmitt",Healthcare,Nigeria,1990,482.1
+5484,Ramsey Ltd,Healthcare,Timor-Leste,1935,254.41
+1566,Hinton-Davila,Healthcare,Dominica,1996,34.73
+3460,"Reyes, Edwards and Herrera",Retail,New Zealand,1960,337.25
+4346,Oconnor-Peters,Healthcare,Albania,1941,413.47
+1386,Mcdonald Inc,Technology,El Salvador,1990,8.39
+8987,Vega Ltd,Energy,Guatemala,1915,484.03
+8051,"Peters, Morton and Sanders",Technology,Jersey,1916,468.77
+3498,Walker-Garrison,Healthcare,Macao,1939,403.93
+2785,Jones-Rodgers,Energy,Bulgaria,1907,111.87
+2089,"Aguirre, Thomas and Mclaughlin",Retail,Turkey,1955,182.44
+8460,"Rowe, Gilmore and Smith",Healthcare,Ecuador,1967,464.0
+7510,Allen-Peterson,Technology,Finland,1998,251.64
+9865,Myers-Davila,Energy,Cambodia,1981,476.76
+4165,Jones-Martin,Energy,Comoros,2002,270.61
+9787,Rose-Skinner,Telecom,Central African Republic,1933,7.58
+7401,Pope LLC,Finance,Greenland,1905,307.01
+5268,Brown Inc,Healthcare,Suriname,1994,184.46
+4084,"Cooper, Bautista and Wong",Retail,Georgia,1960,369.5
+5785,"Rich, Clark and Mckenzie",Healthcare,Sao Tome and Principe,1954,43.83
+6726,Martinez-Moore,Energy,Malawi,1949,246.44
+5158,Burke-Payne,Finance,Denmark,1992,370.51
+9731,Gutierrez and Sons,Retail,Guernsey,2008,310.86
+1213,Mckinney-Knox,Healthcare,Vanuatu,1961,70.66
+4735,Nelson and Sons,Energy,Kenya,1955,302.61
+5322,Howell LLC,Retail,Antarctica (the territory South of 60 deg S),1976,37.34
+9903,Phelps LLC,Finance,Benin,1920,477.78
+1651,Cruz LLC,Retail,Costa Rica,1947,429.62
+3015,Anderson Ltd,Finance,Finland,2003,412.98
+7256,Hicks Ltd,Telecom,Ethiopia,1991,130.64
+1520,Garcia-Smith,Finance,Kyrgyz Republic,1939,238.3
+7152,"Sutton, Riley and Evans",Finance,French Guiana,1905,53.11
+6229,"Woods, Thompson and Stone",Retail,Uzbekistan,1915,66.64
+2688,Allen Ltd,Finance,Ireland,1935,40.34
+9010,Marks-Sutton,Telecom,Niger,1920,420.34
+3461,Wilson Inc,Finance,Norfolk Island,1985,59.16
+8721,Schmidt Ltd,Technology,Fiji,1919,60.25
+7838,Thompson-Garcia,Finance,Paraguay,1905,439.16
+1286,"Bowen, Gardner and Sanchez",Telecom,Liberia,1981,349.22
+9535,Turner-Blevins,Telecom,South Georgia and the South Sandwich Islands,1945,427.47
+1208,"Horne, Adams and Green",Retail,Liechtenstein,1921,120.42
+5525,Haynes LLC,Telecom,Ecuador,1946,41.24
+8797,Freeman PLC,Energy,Libyan Arab Jamahiriya,1954,391.67
+5974,"Dunn, Sherman and Holt",Energy,Mexico,1916,183.69
+8662,"Rodriguez, Thomas and Estrada",Retail,Tokelau,1920,443.63
+1351,Santos Group,Retail,Turkey,1963,103.91
+8582,Watson-Rollins,Telecom,Burkina Faso,1978,272.41
+7567,Mendoza-Mcclain,Telecom,Niue,1952,91.71
+5249,"Austin, Taylor and Ingram",Technology,Cuba,1932,20.65
+9596,Bush-Andrews,Telecom,Faroe Islands,1970,206.5
+8860,Mooney-Hayes,Telecom,Algeria,1997,336.11
+8999,Williams PLC,Telecom,Malaysia,1995,472.6
+7014,"Bullock, Beltran and Sanchez",Finance,Faroe Islands,1958,122.26
+5770,Wood-Ford,Retail,Tanzania,1945,205.29
+3222,"Deleon, Owens and Suarez",Energy,Korea,2000,266.6
+6083,"Allen, Mitchell and Reynolds",Technology,Reunion,1992,281.87
+5575,Brock-Thornton,Retail,Poland,1928,122.47
+1880,Ellis-Berry,Technology,Vietnam,1962,11.13
+9128,"Marks, Forbes and Gordon",Healthcare,Angola,1968,349.24
+7403,Nelson-Campbell,Telecom,Solomon Islands,1900,339.05
+4947,Soto PLC,Energy,Algeria,2002,342.68
+5882,Moore-Powers,Technology,Equatorial Guinea,1993,297.31
+6476,Chambers Group,Retail,Uruguay,1928,474.41
+1926,Griffin-Day,Healthcare,India,1971,66.09
+6280,Bell-Stevens,Finance,India,1981,257.6
+7008,"Oconnor, Franklin and Lindsey",Technology,Timor-Leste,2000,77.0
+5180,Jones-Kirby,Telecom,Ireland,2008,436.03
+8110,Craig-Tucker,Energy,China,1953,331.61
+1448,"Williamson, Harris and Perez",Finance,Guinea-Bissau,2001,492.96
+6023,Martinez-Todd,Telecom,Taiwan,1941,328.11
+7359,Trujillo LLC,Telecom,French Polynesia,1978,77.34
+5808,"Lynn, Campbell and Young",Telecom,Togo,2009,222.46
+1496,Porter Ltd,Retail,Ukraine,1910,284.5
+4399,"Ballard, Cruz and Washington",Healthcare,Antigua and Barbuda,2002,384.1
+4224,"Mann, Arroyo and Benitez",Technology,Cocos (Keeling) Islands,1926,320.25
+3692,Murphy LLC,Finance,Taiwan,1932,284.92
+4237,Calhoun Group,Finance,New Caledonia,1995,106.02
+5626,"Doyle, Leon and Charles",Retail,Faroe Islands,2020,215.88
+3023,"Miles, Ramirez and Randolph",Retail,American Samoa,1989,463.63
+1148,May LLC,Energy,Marshall Islands,1920,378.98
+2013,"Coleman, Berry and Grant",Healthcare,Tonga,2017,384.39
+1473,Booth Inc,Finance,Nicaragua,2020,415.47
+1711,"Owen, Johnson and Wolfe",Technology,Denmark,1988,303.44
+8319,Frederick-Kelly,Retail,Pitcairn Islands,1976,271.92
+8357,Kennedy-Nixon,Healthcare,Burundi,1976,277.93
+2940,Johnson-Maldonado,Energy,Greece,1991,292.71
+2821,Morgan LLC,Finance,Niger,1914,414.99
+4567,"Hall, Mendoza and Whitehead",Telecom,Netherlands Antilles,2004,135.98
+7443,Wiley Inc,Finance,Mexico,1991,329.68
+7330,Cardenas-Logan,Retail,Albania,1922,482.57
+6379,Singh Ltd,Retail,Bhutan,1941,254.8
+6541,"Lee, Miller and Lawson",Telecom,Dominican Republic,1952,335.75
+1497,"Martinez, Zuniga and Medina",Retail,Mozambique,1944,488.78
+6115,Allen-Young,Healthcare,Qatar,1935,67.36
+1173,Soto-Taylor,Healthcare,Belarus,1901,230.09
+2251,Johnson Ltd,Retail,Bermuda,1987,82.49
+7132,Mendez-Pierce,Technology,Monaco,1915,112.85
+5247,Marshall-Castillo,Finance,Saint Lucia,1982,457.62
+1179,Gonzales-Brown,Retail,Guinea-Bissau,1965,443.58
+8953,"Parker, Rodriguez and Gray",Telecom,Norway,1928,40.65
+7810,Molina-Rowe,Retail,Jamaica,1949,429.1
+3593,Shah Ltd,Healthcare,Saint Kitts and Nevis,1911,114.87
+3891,Newton and Sons,Healthcare,Syrian Arab Republic,1969,439.18
+4059,"Martin, Mckee and Lowe",Healthcare,Equatorial Guinea,1960,80.18
+4889,Davis Group,Finance,French Southern Territories,1999,294.01
+4198,Mitchell Ltd,Telecom,Afghanistan,1977,53.95
+4717,Park-Mcgrath,Healthcare,Guinea,1950,384.04
+6937,"Patel, Briggs and Brown",Technology,Puerto Rico,1930,140.69
+8166,"Brown, Saunders and Jennings",Telecom,Nigeria,1907,374.08
+4107,"Davis, Anderson and Nelson",Retail,Germany,1945,99.34
+9441,Sanders PLC,Retail,Nicaragua,1937,311.39
+6688,Smith-Lee,Technology,Lithuania,1934,411.53
+5288,Mitchell-Adams,Technology,Switzerland,1936,18.59
+4363,"Green, Butler and Weber",Finance,Iraq,1919,167.49
+7942,Schneider and Sons,Energy,Portugal,1939,400.27
+2330,Rodriguez LLC,Energy,United States Minor Outlying Islands,1976,221.31
+3040,"Hale, Diaz and Duarte",Retail,Dominican Republic,1941,490.28
+6284,Barker-Medina,Retail,Colombia,1952,310.34
+4243,"Pena, Robinson and Allen",Technology,Costa Rica,1966,62.87
+7818,Stewart-Sanchez,Healthcare,Christmas Island,1931,50.09
+9322,Mcmillan-Gordon,Retail,British Indian Ocean Territory (Chagos Archipelago),2004,413.76
+7732,Brock-Brown,Telecom,Argentina,1967,2.48
+4127,Williams-Miller,Technology,Namibia,1908,494.78
+5478,Vaughn-Hernandez,Finance,Swaziland,1908,450.63
+7204,Garcia-Lee,Technology,Saint Lucia,1916,61.61
+1902,Martin-Dixon,Telecom,South Georgia and the South Sandwich Islands,1933,393.24
+2868,"Becker, Lee and Alvarez",Telecom,Grenada,1922,51.88
+3051,Burke and Sons,Telecom,Palau,2012,76.51
+9619,Marsh Inc,Finance,Afghanistan,2002,466.61
+2045,Young-Johnson,Finance,Ghana,1966,250.22
+5817,"Schroeder, Jones and Hughes",Retail,Iceland,1931,481.41
+3072,"Livingston, Robertson and Novak",Telecom,British Indian Ocean Territory (Chagos Archipelago),1933,187.97
+9197,"Johnson, Sellers and Smith",Healthcare,Netherlands Antilles,1973,157.97
+2733,"Cooper, Fisher and Crawford",Telecom,Dominica,1927,400.0
+8970,Orr LLC,Energy,Costa Rica,1918,451.33
+9943,Burns and Sons,Energy,Colombia,2004,114.86
+9132,Russell LLC,Technology,Brunei Darussalam,2004,463.17
+1768,Craig Group,Finance,Gabon,1935,306.49
+8773,Nicholson-Ryan,Energy,Montserrat,1904,471.08
+9082,Ruiz-Kane,Retail,Hong Kong,1954,336.24
+9442,Ramirez Ltd,Finance,Libyan Arab Jamahiriya,1983,166.08
+9295,Crawford PLC,Healthcare,Angola,1985,7.43
+9353,Martinez Inc,Finance,Guernsey,1997,286.81
+1063,"Li, Mullen and Davis",Telecom,Falkland Islands (Malvinas),1978,377.35
+6332,"Brown, Alexander and Burgess",Energy,Chad,2010,367.0
+5330,Webster Ltd,Finance,Montenegro,1912,13.09
+5328,"Newton, Hanson and Lee",Technology,Sudan,1943,498.83
+2902,Price Ltd,Retail,Cameroon,1969,134.76
+6149,Lee-Pena,Energy,Nigeria,1950,257.07
+1118,Lee LLC,Energy,El Salvador,1983,34.08
+7231,Obrien-Boyd,Finance,South Africa,1975,45.06
+9248,Miller-Browning,Telecom,Falkland Islands (Malvinas),1917,201.41
+6352,"Evans, Hooper and Davis",Technology,Svalbard & Jan Mayen Islands,2014,13.61
+8036,Wilkerson Ltd,Retail,Ireland,1938,350.6
+7036,"Harris, Yoder and Bradshaw",Finance,Hong Kong,1929,327.61
+8905,Thomas PLC,Retail,Italy,1998,301.3
+8740,Harvey-Young,Healthcare,Paraguay,2014,300.5
+2939,Reyes-Burke,Energy,Greece,1976,191.37
+5382,Fleming PLC,Energy,Belgium,1979,462.64
+2049,Jackson-Gibson,Technology,Papua New Guinea,2012,221.01
+8130,"Wood, Snyder and Adams",Telecom,Sweden,1991,293.62
+5157,Oliver Inc,Telecom,Brazil,1962,469.37
+5386,Carlson-Elliott,Technology,Lao People's Democratic Republic,2012,21.73
+7439,Wise-Beck,Finance,Brunei Darussalam,1969,30.54
+8350,Marshall Group,Technology,Ecuador,1960,124.18
+8037,Cox LLC,Telecom,French Southern Territories,2002,390.27
+8725,Davis-Tucker,Retail,New Zealand,1998,376.02
+8030,Lang-Kane,Retail,Yemen,1946,175.54
+2869,Lewis-English,Technology,Guinea,2004,107.4
+6205,Wood Inc,Finance,Saint Martin,1909,343.49
+8905,"Edwards, Mayo and Hall",Energy,Bahamas,1973,107.71
+8267,Jones-Klein,Energy,Macao,1993,473.04
+6080,Moran-Kramer,Retail,Cocos (Keeling) Islands,1931,293.53
+5990,Nichols Ltd,Healthcare,Vanuatu,1956,398.21
+2105,Lawson-Phillips,Energy,North Macedonia,1977,198.72
+5511,Joyce Inc,Energy,Slovakia (Slovak Republic),1926,252.18
+5632,Contreras-Smith,Finance,British Virgin Islands,1911,335.2
+9804,"Burch, West and Gardner",Technology,Timor-Leste,1951,68.94
+8442,"Mccoy, Jensen and Blevins",Healthcare,Guyana,1941,348.92
+5957,Wright-Schultz,Telecom,Chad,1966,169.24
+4896,"Turner, Rodriguez and Lopez",Telecom,India,1982,190.05
+4369,Ray Inc,Technology,New Zealand,1980,418.78
+1479,"Randolph, Calhoun and Cortez",Telecom,Bermuda,1986,275.43
+4968,Watkins Inc,Finance,Barbados,1971,344.26
+3821,Rice Group,Healthcare,Reunion,1977,139.35
+8925,"Smith, Edwards and Peck",Finance,French Southern Territories,1953,388.05
+4086,"York, Howe and Dunn",Retail,Czech Republic,1954,157.86
+1977,Moore and Sons,Technology,Philippines,1913,226.38
+5319,Cox-Rhodes,Telecom,Yemen,1987,68.37
+1869,Jennings-Knox,Healthcare,Eritrea,1966,116.95
+2408,"West, George and Vazquez",Healthcare,Costa Rica,1977,150.32
